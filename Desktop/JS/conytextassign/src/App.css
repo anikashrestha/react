@@ -1,0 +1,24 @@
+.header{
+  height: 60px;
+  display: flex;
+  align-items: center;
+}
+.section{
+  height:300px;
+  margin-top: 10px;
+}
+.cards{
+  height:200px;
+  margin-top: 10px;
+}
+.footer{
+  height:100px;
+  margin-top: 10px;
+}
+.light{
+  background-color: #dddddd;
+}
+.dark{
+  background-color: rgb(41,38,38);
+  color:white;
+}

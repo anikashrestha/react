@@ -1,0 +1,22 @@
+.users{
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.userlist{
+  margin: 10px;
+  background-color: blueviolet;
+  padding: 30px;
+  cursor: pointer;
+}
+.userlist>div:nth-child(1){
+  font-weight: bold;
+  font-size: 30px;
+}
+.userlist>div:nth-child(2){
+  font-size: 3em;
+  color: blue;
+}
+.userlist>div:nth-child(3){
+  font-size: 1em;
+  color: bisque;
+}

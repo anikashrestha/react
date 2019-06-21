@@ -1,0 +1,8 @@
+{
+    "items": [
+        {"id": 1, "name": "Black/Green Windcheater For Men", "price": "800", "quantity":0,"image":"https://static-01.daraz.com.np/original/f4490ba6faf89a337f6d2ddaa8b4f784.jpg"},
+        {"id": 2, "name": "Blazer", "price": "3500", "quantity":0,"image":"https://static-01.daraz.com.np/original/402361f834d97a1a670d15fe37149c64.jpg"},
+        {"id": 3, "name": "Skinny Jeans", "price": "1049","quantity":0, "image":"https://static-01.daraz.com.np/original/c371b3f31b1b62814af2c0b4a87b2983.jpg"},
+        {"id": 4, "name": "Joggers", "price": "949","quantity":0, "image":"https://static-01.daraz.com.np/original/f0a9fa4db23794954bb5467ed4608286.jpg"}        
+    ]
+}

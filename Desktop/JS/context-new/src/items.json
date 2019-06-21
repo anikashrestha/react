@@ -1,0 +1,8 @@
+{
+    "items": [
+        {"name": "Potato", "price": "100", "image":"alu.png"},
+        {"name": "Cauliflower", "price": "5000", "image":"cauli.jpeg"},
+        {"name": "Noodles", "price": "20", "image":"noodles.jpg"},
+        {"name": "Chocolate", "price": "100", "image":"chocolate.jpeg"}        
+    ]
+}
